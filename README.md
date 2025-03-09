@@ -6,13 +6,13 @@ A **.NET Core** based medical appointment booking system that allows patients to
 
 ## ✨ Features  
 
-✅ **User Authentication**: Secure login and registration using **JWT & Identity Framework**.  
-✅ **Role-based Access**: Different roles for **Patients** and **Doctors**.  
-✅ **Appointment Booking**: Patients can book, cancel, or reschedule appointments.  
-✅ **Doctor Availability**: Doctors can set their available time slots.  
-✅ **Search & Filtering**: Patients can search for doctors by **specialty, location, and availability**.  
-✅ **Email Notifications**: Confirmation emails for appointments.  
-✅ **Admin Panel (Future Enhancement)**: Manage users, doctors, and appointments.  
+✅  **User Authentication**: Secure login and registration using **JWT & Identity Framework**.  
+✅  **Role-based Access**: Different roles for **Patients** and **Doctors**.  
+✅  **Appointment Booking**: Patients can book, cancel, or reschedule appointments.  
+✅  **Doctor Availability**: Doctors can set their available time slots.  
+✅  **Search & Filtering**: Patients can search for doctors by **specialty, location, and availability**.  
+✅  **Email Notifications**: Confirmation emails for appointments.  
+✅  **Admin Panel (Future Enhancement)**: Manage users, doctors, and appointments.  
 
 ---
 
