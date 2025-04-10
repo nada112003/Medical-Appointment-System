@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Migrations\\20250410112603_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GraduationP-v10\\Migrations\\20250410112603_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\services\\patientprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\services\\patientprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\dto\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\dto\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\interface\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\interface\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\patientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\appointmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\appointmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\controllers\\patientprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\controllers\\patientprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|c:\\users\\dell\\downloads\\graduation_project\\graduationp-v9\\graduationp-v10- linked\\graduationp-v10\\interface\\ipatientprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844D80E3-C509-4D8C-BBF8-02D72DDD22C2}|GraduationP-v10\\GraduationP-v10.csproj|solutionrelative:graduationp-v10\\interface\\ipatientprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\DTO\\FavoriteDto.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\DTO\\FavoriteDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\DTO\\FavoriteDto.cs",
+              "RelativeToolTip": "GraduationP-v10\\DTO\\FavoriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:30:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Services\\FavoriteService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\FavoriteService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Services\\FavoriteService.cs",
+              "ViewState": "AgIAABMAAADAxMzMzMwVwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:27:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250410112603_Create.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Migrations\\20250410112603_Create.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Migrations\\20250410112603_Create.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Migrations\\20250410112603_Create.cs",
+              "RelativeToolTip": "GraduationP-v10\\Migrations\\20250410112603_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:26:04.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\DTO\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\DTO\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\DTO\\DoctorProfile.cs",
+              "RelativeToolTip": "GraduationP-v10\\DTO\\DoctorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:23:27.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Interface\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:23:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Interface\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IFavoriteService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Interface\\IFavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:23:13.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Favorite.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:22:32.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Doctors.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Doctors.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Doctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:22:31.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Availability.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Availability.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Availability.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Availability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:22:29.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppointmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\AppointmentRequest.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\AppointmentRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\AppointmentRequest.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\AppointmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:22:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Appointment.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Appointment.cs",
+              "ViewState": "AgIAABwAAABAAQAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:21:57.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Feedback.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Feedback.cs",
+              "ViewState": "AgIAAA8AAABgzMzMzMwuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:27:44.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Patients.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Patients.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Patients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:22:59.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GraduationP-v10\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABUAAACAzMzMzMwqwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:11:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Program.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Program.cs",
+              "RelativeToolTip": "GraduationP-v10\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:12:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Controllers\\PatientProfileController.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Controllers\\PatientProfileController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Controllers\\PatientProfileController.cs",
+              "RelativeToolTip": "GraduationP-v10\\Controllers\\PatientProfileController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:17:37.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\PatientProfileService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Services\\PatientProfileService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\PatientProfileService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Services\\PatientProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:12:54.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Services\\PatientService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAQAAADw+/////8QwDYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:27:01.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPatientProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IPatientProfileService.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Interface\\IPatientProfileService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Interface\\IPatientProfileService.cs",
+              "RelativeToolTip": "GraduationP-v10\\Interface\\IPatientProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:18:13.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\PatientProfile.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\PatientProfile.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\PatientProfile.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\PatientProfile.cs",
+              "ViewState": "AgIAABEAAADQmJmZmVk5wBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:19:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\appsettings.json",
+              "RelativeDocumentMoniker": "GraduationP-v10\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\appsettings.json",
+              "RelativeToolTip": "GraduationP-v10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T19:52:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "GraduationP-v10\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Graduation_Project\\GraduationP-v9\\GraduationP-v10- LINKED\\GraduationP-v10\\Models\\Person.cs",
+              "RelativeToolTip": "GraduationP-v10\\Models\\Person.cs",
+              "ViewState": "AgIAAAsAAAAwzczMzMwuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:33:30.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
